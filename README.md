@@ -1,2 +1,2 @@
 # rust-sandbox
-Personal  rust-lang sandbox
+Personal  rust-lang sandbox! 📦
